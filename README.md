@@ -1,1 +1,1 @@
-This repo contains files on shell basics
+This is my practice file for shell redirections
